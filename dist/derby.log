@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu May 09 17:54:24 ART 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-013e-8b12-ca01-0000042c2bf0 
+on database directory C:\Users\gclaret\Desktop\Gestor\dist\GestorDb with class loader sun.misc.Launcher$AppClassLoader@6e818805 
+Loaded from file:/C:/Users/gclaret/Desktop/Gestor/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_11-b21
+user.dir=C:\Users\gclaret\Desktop\Gestor\dist
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
